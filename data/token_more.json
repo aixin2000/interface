@@ -1,0 +1,14 @@
+{
+  "token01" : {"url" : "https://api.weixin.qq.com/cgi-bin/token",
+  "grant_type" : "client_credential",
+  "appid" : "wxa08749913379550d",
+  "secret" : "12172e3254a4bf79d383b50109f6137c",
+  "expires_in" : 7200},
+
+  "token02" : {"url" : "https://api.weixin.qq.com/cgi-bin/token",
+  "grant_type" : "client_credential",
+  "appid" : "wxa08749913379550d1",
+  "secret" : "12172e3254a4bf79d383b50109f6137c",
+  "expires_in" : 7200
+  }
+}
